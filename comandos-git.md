@@ -10,3 +10,8 @@ git add index.html index2.html
 git add .
 git commit -m "ejemplo de html"
 `````
+## Github
+````
+git remote add origin https://github.com/PepeProyectos/fullstack-bases-git.git
+````
+
